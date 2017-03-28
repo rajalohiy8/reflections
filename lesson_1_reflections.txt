@@ -1,0 +1,23 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When you've updated your document, click "Next" to learn about some differences between these version control systems.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+When you've updated your document, click "Next" and Sarah will go over another difference between version control systems.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+When you've updated your document, click "Next", and an experienced Git user will share why version control is useful to him.
+
+How can you use the commands git log and git diff to view the history of files?
+
+When you've updated your document, click "Next" to add more concepts to your map with Sarah. Then you'll learn how to use Git to return to previous versions of your files.
+
+How might using version control make you more confident to make changes that could break something?
+
+When you've updated your document, click "Next" to start configuring a workspace that will make you more efficient at using Git.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+When you've updated your document, click "Next" and we'll wrap up the lesson.
